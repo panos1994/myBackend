@@ -1,7 +1,15 @@
 [{
-  "url": "https://canvas.adweb.gr/wp-content/uploads/2022/05/heineken-1.png",
-  "href": "https://clipcentric.com/user-10/adPreview.phtml?uk=qqnRq4NY1dc45",
-  "title": "heineken - hero",
-  "platform": ["Interactive Video Parallax"],
-  "id": 31
-}]
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/deree_hVideo_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/alba/headerVideo_june2023.html",
+    "title": "deree - alba june 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/adams_fpt_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/adams/adams_full_page_takeover.html",
+    "title": "adam's - ipanema june 2023",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  }
+]
